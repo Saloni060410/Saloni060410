@@ -36,7 +36,7 @@ const saloni = {
 
 - 🎓 3rd-year **B.E. Computer Engineering** @ Thadomal Shahani Engineering College — *CGPA 9.29*
 - 📊 Pursuing **B.S. in Data Science & Applications** @ IIT Madras (online)
-- 🌱 Currently exploring AI agents, RAG grounding, and reliable multi-model routing
+- 🤖 Currently exploring AI agents, RAG grounding, and reliable multi-model routing
 
 ---
 
@@ -64,6 +64,9 @@ const saloni = {
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-FF8FAB?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-FFD666?style=for-the-badge&logo=pandas&logoColor=black)
 ![NumPy](https://img.shields.io/badge/-NumPy-B983FF?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD666?style=for-the-badge&logo=huggingface&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-B983FF?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-FF8FAB?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases & Infrastructure**
 <br/>
@@ -76,6 +79,8 @@ const saloni = {
 ![n8n](https://img.shields.io/badge/-n8n-FF8FAB?style=for-the-badge&logo=n8n&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FFD666?style=for-the-badge&logo=tableau&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-B983FF?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-FF8FAB?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-FFD666?style=for-the-badge&logo=microsoftexcel&logoColor=black)
 
 </div>
 
@@ -96,7 +101,7 @@ const saloni = {
 
 <div align="center">
 
-*"Somewhere between a paintbrush and a keyboard, I find the same thing — trying to make something that feels right."*
+*"Some days it's a notebook, some days it's a sketchbook — same brain, different tools."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD666,50:FF8FAB,100:B983FF&height=120&section=footer" width="100%"/>
 
