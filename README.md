@@ -86,14 +86,22 @@ const saloni = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saloni060410&show_icons=true&theme=transparent&hide_border=true&title_color=B983FF&icon_color=FF8FAB&text_color=888888&bg_color=00000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&theme=transparent&hide_border=true&title_color=B983FF&text_color=888888&bg_color=00000000" width="42%"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Saloni060410&show_icons=true&theme=radical&hide_border=true&border_radius=12&card_width=420" width="100%"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="100%"/>
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saloni060410&theme=transparent&hide_border=true&background=00000000&ring=B983FF&fire=FF8FAB&currStreakNum=888888&sideNums=888888&currStreakLabel=B983FF&sideLabels=888888&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Saloni060410&theme=radical&hide_border=true&border_radius=12" width="60%"/>
 
 </div>
+
+> Note: the stats cards above pull live from a shared public renderer (`github-readme-stats.vercel.app`), which occasionally shows a broken-image glitch when GitHub's API rate-limits it. If it happens often, the durable fix is self-hosting your own instance (fork the repo → deploy to Vercel with your own token) — happy to walk through that if you want it rock-solid.
 
 ---
 
