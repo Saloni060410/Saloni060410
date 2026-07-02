@@ -1,16 +1,107 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Saloni060410/Saloni060410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B983FF,50:FF8FAB,100:FFD666&height=220&section=header&text=Hi,%20I'm%20Saloni%20%E2%9C%A8&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%F0%9F%A4%96%20%E2%80%A2%20Artist%20at%20Heart%20%F0%9F%8E%A8%20%E2%80%A2%20Always%20Humming%20Something%20%F0%9F%8E%B6&descAlignY=55&descSize=17" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+close+real+gaps;Sketching+ideas+before+I+ever+open+a+code+editor;Coding+with+a+playlist+running+in+the+background" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saloni060410&style=flat-square&color=b983ff&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF8FAB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-sawant)
+[![Email](https://img.shields.io/badge/-Email-B983FF?style=flat-square&logo=gmail&logoColor=white)](mailto:saloniksawant@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-FFD666?style=flat-square&logo=github&logoColor=black)](https://github.com/Saloni060410)
+
+</div>
+
+---
+
+## 🎨 About Me
+
+I'm a Computer Engineering student who splits her attention between **training models** and **mixing colors** — somewhere between the two is where I do my best thinking. I build systems that pair machine learning with automation and computer vision, but I care less about shipping a feature than about whether it actually closes a real gap for the person using it.
+
+When I'm not deep in a notebook or a codebase, I'm probably sketching something, arranging a playlist that makes no sense to anyone but me, or finding the overlap between the two — the same instinct for composition and rhythm shows up whether I'm designing a UI or a melody.
+
+```txt
+const saloni = {
+  studying: ["Computer Engineering", "Data Science & Applications"],
+  building: "AI agents, computer vision, and things that quietly save people time",
+  offline: ["painting", "curating playlists", "community work"],
+  currentFocus: "provider-agnostic LLM orchestration + agentic workflows"
+};
+```
+
+---
+
+## 🌸 Currently
+
+- 🎓 3rd-year **B.E. Computer Engineering** @ Thadomal Shahani Engineering College — *CGPA 9.29*
+- 📊 Pursuing **B.S. in Data Science & Applications** @ IIT Madras (online)
+- 💼 **Enterprise AI Engineer Intern** @ Neuranest Data Labs — building an agentic, multi-tenant LLM orchestration platform
+- 🌱 Currently exploring AI agents, RAG grounding, and reliable multi-model routing
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/-Python-B983FF?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF8FAB?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFD666?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-B983FF?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/-C-FF8FAB?style=for-the-badge&logo=c&logoColor=white)
+
+**Frameworks & Frontend**
+<br/>
+![React](https://img.shields.io/badge/-React-B983FF?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-FF8FAB?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-FFD666?style=for-the-badge&logo=fastapi&logoColor=black)
+
+**Data, ML & AI**
+<br/>
+![PyTorch](https://img.shields.io/badge/-PyTorch-B983FF?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-FF8FAB?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-FFD666?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-B983FF?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Databases & Infrastructure**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FF8FAB?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-FFD666?style=for-the-badge&logo=mysql&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-B983FF?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools**
+<br/>
+![n8n](https://img.shields.io/badge/-n8n-FF8FAB?style=for-the-badge&logo=n8n&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-FFD666?style=for-the-badge&logo=tableau&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-B983FF?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saloni060410&show_icons=true&theme=transparent&hide_border=true&title_color=B983FF&icon_color=FF8FAB&text_color=888888&bg_color=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&theme=transparent&hide_border=true&title_color=B983FF&text_color=888888&bg_color=00000000" width="42%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saloni060410&theme=transparent&hide_border=true&background=00000000&ring=B983FF&fire=FF8FAB&currStreakNum=888888&sideNums=888888&currStreakLabel=B983FF&sideLabels=888888&dates=888888" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Somewhere between a paintbrush and a keyboard, I find the same thing — trying to make something that feels right."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD666,50:FF8FAB,100:B983FF&height=120&section=footer" width="100%"/>
+
+</div>
