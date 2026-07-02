@@ -86,22 +86,11 @@ const saloni = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saloni060410&show_icons=true&theme=radical&hide_border=true&border_radius=12&card_width=420" width="100%"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="100%"/>
-</td>
-</tr>
-</table>
 
 <img src="https://streak-stats.demolab.com/?user=Saloni060410&theme=radical&hide_border=true&border_radius=12" width="60%"/>
 
 </div>
 
-> Note: the stats cards above pull live from a shared public renderer (`github-readme-stats.vercel.app`), which occasionally shows a broken-image glitch when GitHub's API rate-limits it. If it happens often, the durable fix is self-hosting your own instance (fork the repo → deploy to Vercel with your own token) — happy to walk through that if you want it rock-solid.
 
 ---
 
