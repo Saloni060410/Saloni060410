@@ -7,7 +7,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saloni060410&style=flat-square&color=b983ff&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF8FAB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-sawant)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF8FAB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-sawant-6313a032a/)
 [![Email](https://img.shields.io/badge/-Email-B983FF?style=flat-square&logo=gmail&logoColor=white)](mailto:saloniksawant@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-FFD666?style=flat-square&logo=github&logoColor=black)](https://github.com/Saloni060410)
 
@@ -36,7 +36,6 @@ const saloni = {
 
 - 🎓 3rd-year **B.E. Computer Engineering** @ Thadomal Shahani Engineering College — *CGPA 9.29*
 - 📊 Pursuing **B.S. in Data Science & Applications** @ IIT Madras (online)
-- 💼 **Enterprise AI Engineer Intern** @ Neuranest Data Labs — building an agentic, multi-tenant LLM orchestration platform
 - 🌱 Currently exploring AI agents, RAG grounding, and reliable multi-model routing
 
 ---
