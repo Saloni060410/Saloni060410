@@ -91,8 +91,7 @@ const saloni = {
 
 <div align="center">
 
-
-<img src="https://streak-stats.demolab.com/?user=Saloni060410&theme=radical&hide_border=true&border_radius=12" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Saloni060410&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800" width="60%"/>
 
 </div>
 
