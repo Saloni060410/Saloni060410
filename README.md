@@ -112,16 +112,6 @@ const saloni = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Saloni060410&hide_border=true&border_radius=12&background=0d1117&stroke=0d1117&ring=B983FF&fire=FF8FAB&currStreakLabel=B983FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&cache_seconds=1800" width="60%" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saloni060410&theme=github_dark" width="72%" alt="Profile summary" />
-
-<br/>
-
-<img src="https://profile-trophy.vercel.app/?username=Saloni060410&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="95%" alt="GitHub trophies" />
-
 </div>
 
 ---
