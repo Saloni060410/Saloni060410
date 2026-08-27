@@ -107,7 +107,7 @@ const saloni = {
 
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=Saloni060410&theme=panda&hide_border=false)
+<img src="https://streak-stats.demolab.com/?user=Saloni060410&theme=panda&hide_border=false" width="70%" alt="GitHub streak — total contributions, current and longest streak" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=C9D1D9&exclude_repo=Saloni060410" width="49%" alt="Top languages" />
 
