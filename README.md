@@ -56,10 +56,12 @@ const saloni = {
 
 **AI, Agents & Automation**
 <br/>
-![Gemini API](https://img.shields.io/badge/-Gemini%20API-B983FF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG%20%2F%20ReAct%20Agents-FF8FAB?style=for-the-badge&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-FFD666?style=for-the-badge&logo=ollama&logoColor=black)
-![n8n](https://img.shields.io/badge/-n8n-B983FF?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-B983FF?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF8FAB?style=for-the-badge&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG%20%2F%20ReAct%20Agents-FFD666?style=for-the-badge&logo=chainlink&logoColor=black)
+![pgvector](https://img.shields.io/badge/-pgvector-B983FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-FF8FAB?style=for-the-badge&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FFD666?style=for-the-badge&logo=n8n&logoColor=black)
 
 **ML, Data Science & Computer Vision**
 <br/>
