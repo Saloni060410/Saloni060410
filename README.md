@@ -103,15 +103,16 @@ const saloni = {
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github contribution snake animation" src="dist/github-snake.svg" width="100%" />
-</picture>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saloni060410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=FF8FAB&text_color=C9D1D9&ring_color=B983FF" width="49%" alt="Saloni's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=C9D1D9&exclude_repo=Saloni060410" width="49%" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Saloni060410&hide_border=true&border_radius=12&background=0d1117&stroke=0d1117&ring=B983FF&fire=FF8FAB&currStreakLabel=B983FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&cache_seconds=1800" width="70%" alt="GitHub streak — total contributions, current & longest streak" />
 
 </div>
 
