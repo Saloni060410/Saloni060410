@@ -114,23 +114,6 @@ const saloni = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| 🤖 **[Automation Engine](https://github.com/Saloni060410/automation-engine-training)** | End-to-end invoice pipeline: reads Gmail, parses PDFs (PyMuPDF + OCR), structures fields with Gemini, checks 4 business rules, posts to SAP and pings Slack — wrapped in a FastAPI API with a React workflow canvas. | `Python` · `FastAPI` · `Gemini` · `React` |
-| 🧠 **[QueryMind — SQL AI Agent](https://github.com/Saloni060410/QueryMind_SQL-AI-Agent-with-Memory)** | Conversational agent that turns plain-English questions into SQL over a relational DB, keeps conversation memory, and grounds itself with live schema context. Orchestrated in n8n over self-hosted LLMs (Llama 3 / DeepSeek-R). | `Python` · `n8n` · `LLMs` · `SQL` |
-| 🤟 **[Signova](https://github.com/Saloni060410/Signova)** | Real-time ASL detection and teaching platform — ResNet for static signs, an LSTM over MediaPipe hand landmarks for dynamic gestures, served through a Next.js / FastAPI stack. | `Next.js` · `FastAPI` · `OpenCV` · `PyTorch` |
-| 📉 **[SaaS Churn Prediction](https://github.com/Saloni060410/Churn-Prediction)** | Churn model on synthetic SaaS data — scikit-learn / XGBoost / SHAP pipeline. Picked Random Forest (AUC 0.87) over an overfitting XGBoost, with the story visualized in Tableau. | `scikit-learn` · `XGBoost` · `SHAP` · `Tableau` |
-| 📨 **[InvoFlow — Invoice Processing](https://github.com/Saloni060410/n8n_invoice-processing)** | No-code invoice automation in n8n: captures inbound email, runs Gemini Vision OCR on attachments, extracts line items, and files them into Zoho Books. | `n8n` · `Gmail API` · `Gemini Vision` · `Zoho Books` |
-| 🚦 **[FH Traffic Demand](https://github.com/Saloni060410/fh-traffic-demand)** | Exploratory forecasting notebook modelling traffic / ride demand from historical patterns. | `Jupyter` · `Pandas` · `scikit-learn` |
-| 💬 **[Comment Classification](https://github.com/Saloni060410/Comment-Classification)** | Text-classification notebook for sorting user comments into categories. | `Jupyter` · `NLP` · `scikit-learn` |
-| 🖥️ **[Operating System Lab](https://github.com/Saloni060410/Operating-System)** | CPU scheduling, synchronization, and memory algorithms implemented in C, plus a set of shell-scripting practicals. | `C` · `Bash` · `Linux` |
-
-<sub>Also in the pile: <a href="https://github.com/Saloni060410/invisibility_cloak">invisibility_cloak</a>, <a href="https://github.com/Saloni060410/QR-generator">QR-generator</a>, <a href="https://github.com/Saloni060410/Create_Gif">Create_Gif</a>, and <a href="https://github.com/Saloni060410/WordGuess">WordGuess</a> — small OpenCV / Python builds.</sub>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
