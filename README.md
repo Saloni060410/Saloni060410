@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B983FF,50:FF8FAB,100:FFD666&height=220&section=header&text=Hi,%20I'm%20Saloni%20%E2%9C%A8&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%F0%9F%A4%96%20%E2%80%A2%20Artist%20at%20Heart%20%F0%9F%8E%A8%20%E2%80%A2%20Always%20Humming%20Something%20%F0%9F%8E%B6&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B983FF,50:FF8FAB,100:FFD666&height=220&section=header&text=Hi,%20I'm%20Saloni%20%E2%9C%A8&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%F0%9F%A4%96%20%E2%80%A2%20Artist%20at%20Heart%20%F0%9F%8E%A8%20%E2%80%A2%20Always%20Humming%20Something%20%F0%9F%8E%B6&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+close+real+gaps;Provider-agnostic+LLM+orchestration+%2B+tool-calling+loops;Sketching+ideas+before+I+ever+open+a+code+editor;Coding+with+a+playlist+running+in+the+background" alt="Typing SVG" />
 
@@ -121,7 +121,7 @@ const saloni = {
 
 *"Some days it's a notebook, some days it's a sketchbook — same brain, different tools."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD666,50:FF8FAB,100:B983FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD666,50:FF8FAB,100:B983FF&height=120&section=footer" width="100%"/>
 
 </div>
 
