@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD666"/>
+      <stop offset="50%" stop-color="#FF8FAB"/>
+      <stop offset="100%" stop-color="#B983FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#footerGradient)" opacity="0.35"
+        d="M0 120H1200V44C1080 -4 980 -4 880 30S680 76 600 30 400 -16 300 22 100 56 0 22Z"/>
+  <path fill="url(#footerGradient)"
+        d="M0 120H1200V60C1090 16 990 14 890 46S690 90 600 46 400 0 300 38 110 68 0 36Z"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img" aria-label="Hi, I'm Saloni — AI/ML Engineer, Artist at Heart, Always Humming Something">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B983FF"/>
+      <stop offset="50%" stop-color="#FF8FAB"/>
+      <stop offset="100%" stop-color="#FFD666"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#headerGradient)" opacity="0.35"
+        d="M0 0H1200V150C1080 198 980 198 880 164S680 118 600 164 400 210 300 172 100 138 0 172Z"/>
+  <path fill="url(#headerGradient)"
+        d="M0 0H1200V134C1090 178 990 180 890 148S690 104 600 148 400 194 300 156 110 126 0 158Z"/>
+  <text x="600" y="84" text-anchor="middle" fill="#ffffff"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji'"
+        font-size="46" font-weight="700">Hi, I'm Saloni &#10024;</text>
+  <text x="600" y="118" text-anchor="middle" fill="#ffffff"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji'"
+        font-size="17" font-weight="500">AI/ML Engineer &#129302; &#8226; Artist at Heart &#127912; &#8226; Always Humming Something &#127925;</text>
+</svg>
