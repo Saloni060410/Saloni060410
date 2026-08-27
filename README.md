@@ -107,8 +107,8 @@ const saloni = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saloni060410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=FF8FAB&text_color=C9D1D9&ring_color=B983FF" width="49%" alt="Saloni's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=C9D1D9&exclude_repo=Saloni060410" width="49%" alt="Top languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saloni060410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=FF8FAB&text_color=C9D1D9&ring_color=B983FF" width="49%" alt="Saloni's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=C9D1D9&exclude_repo=Saloni060410" width="49%" alt="Top languages" />
 
 <br/>
 
@@ -116,15 +116,11 @@ const saloni = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saloni060410&bg_color=0d1117&color=B983FF&line=FF8FAB&point=FFD666&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saloni060410&theme=github_dark" width="72%" alt="Profile summary" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saloni060410&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="95%" alt="GitHub trophies" />
+<img src="https://profile-trophy.vercel.app/?username=Saloni060410&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="95%" alt="GitHub trophies" />
 
 </div>
 
