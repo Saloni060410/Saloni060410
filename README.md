@@ -54,28 +54,22 @@ const saloni = {
 ![SQL](https://img.shields.io/badge/-SQL-B983FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/-C-FF8FAB?style=for-the-badge&logo=c&logoColor=white)
 
-
-**AI, Agents & LLMs**
+**AI, Agents & Automation**
 <br/>
-![Gemini API](https://img.shields.io/badge/-Gemini%20API-B983FF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-FF8FAB?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-FFD666?style=for-the-badge&logo=ollama&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-B983FF?style=for-the-badge&logo=huggingface&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG%20%2F%20ReAct%20Agents-FF8FAB?style=for-the-badge&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FFD666?style=for-the-badge&logo=n8n&logoColor=black)
 
-**ML & Data Science**
+**ML, Data Science & Computer Vision**
 <br/>
 ![PyTorch](https://img.shields.io/badge/-PyTorch-B983FF?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-FF8FAB?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-B983FF?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-FF8FAB?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-FFD666?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-B983FF?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-FF8FAB?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFD666?style=for-the-badge&logo=google&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-B983FF?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-FF8FAB?style=for-the-badge&logo=python&logoColor=white)
-
-**Computer Vision**
-<br/>
-![OpenCV](https://img.shields.io/badge/-OpenCV-B983FF?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF8FAB?style=for-the-badge&logo=google&logoColor=white)
 
 **Web & Backend**
 <br/>
@@ -83,10 +77,6 @@ const saloni = {
 ![React](https://img.shields.io/badge/-React-FF8FAB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-FFD666?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-B983FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Automation**
-<br/>
-![n8n](https://img.shields.io/badge/-n8n-FF8FAB?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Data & Infrastructure**
 <br/>
