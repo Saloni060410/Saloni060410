@@ -53,7 +53,7 @@ const saloni = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD666?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-B983FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/-C-FF8FAB?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-FFD666?style=for-the-badge&logo=gnubash&logoColor=black)
+
 
 **AI, Agents & LLMs**
 <br/>
@@ -67,10 +67,8 @@ const saloni = {
 <br/>
 ![PyTorch](https://img.shields.io/badge/-PyTorch-B983FF?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-FF8FAB?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FFD666?style=for-the-badge&logo=xgboost&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-B983FF?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-FF8FAB?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-FFD666?style=for-the-badge&logo=jupyter&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-B983FF?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-FF8FAB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -89,9 +87,6 @@ const saloni = {
 **Automation**
 <br/>
 ![n8n](https://img.shields.io/badge/-n8n-FF8FAB?style=for-the-badge&logo=n8n&logoColor=white)
-![Gmail API](https://img.shields.io/badge/-Gmail%20API-FFD666?style=for-the-badge&logo=gmail&logoColor=black)
-![Zoho Books](https://img.shields.io/badge/-Zoho%20Books%20API-B983FF?style=for-the-badge&logo=zoho&logoColor=white)
-![Slack API](https://img.shields.io/badge/-Slack%20API-FF8FAB?style=for-the-badge&logo=slack&logoColor=white)
 
 **Data & Infrastructure**
 <br/>
