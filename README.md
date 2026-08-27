@@ -103,14 +103,15 @@ const saloni = {
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saloni060410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=FF8FAB&text_color=C9D1D9&ring_color=B983FF" width="49%" alt="Saloni's GitHub stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=C9D1D9&exclude_repo=Saloni060410" width="49%" alt="Top languages" />
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github contribution snake animation" src="dist/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 

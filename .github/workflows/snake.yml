@@ -1,0 +1,32 @@
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
+
+      - name: generate snake game from contribution grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%23B983FF&color_dots=%23f4f0fa,%23FFD666,%23FF8FAB,%23B983FF,%236C33B3
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23B983FF&color_dots=%230d1117,%23FFD666,%23FF8FAB,%23B983FF,%23E9D5FF
+
+      - name: commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake animation"
+          file_pattern: dist/
