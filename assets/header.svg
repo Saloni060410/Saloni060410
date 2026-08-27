@@ -1,19 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img" aria-label="Hi, I'm Saloni — AI/ML Engineer, Artist at Heart, Always Humming Something">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="220" viewBox="0 0 854 220" fill="none" role="img" aria-label="Hi, I'm Saloni — AI/ML Engineer, Artist at Heart, Always Humming Something">
+  <style>
+    .text { font: 700 46px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; }
+    .desc { font: 500 17px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; }
+    .text, .desc { animation: fadeIn 1.2s ease-in-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+  </style>
   <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#B983FF"/>
       <stop offset="50%" stop-color="#FF8FAB"/>
       <stop offset="100%" stop-color="#FFD666"/>
     </linearGradient>
   </defs>
-  <path fill="url(#headerGradient)" opacity="0.35"
-        d="M0 0H1200V150C1080 198 980 198 880 164S680 118 600 164 400 210 300 172 100 138 0 172Z"/>
-  <path fill="url(#headerGradient)"
-        d="M0 0H1200V134C1090 178 990 180 890 148S690 104 600 148 400 194 300 156 110 126 0 158Z"/>
-  <text x="600" y="84" text-anchor="middle" fill="#ffffff"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji'"
-        font-size="46" font-weight="700">Hi, I'm Saloni &#10024;</text>
-  <text x="600" y="118" text-anchor="middle" fill="#ffffff"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji'"
-        font-size="17" font-weight="500">AI/ML Engineer &#129302; &#8226; Artist at Heart &#127912; &#8226; Always Humming Something &#127925;</text>
+  <path fill="url(#linear)" opacity="0.4" d="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z"/>
+  </path>
+  <path fill="url(#linear)" opacity="0.4" d="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z"/>
+  </path>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" fill="#ffffff">Hi, I'm Saloni &#10024;</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" fill="#ffffff">AI/ML Engineer &#129302; &#8226; Artist at Heart &#127912; &#8226; Always Humming Something &#127925;</text>
 </svg>

@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="120" viewBox="0 0 854 120" fill="none" role="img" aria-label="">
   <defs>
-    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="linearFooter" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFD666"/>
       <stop offset="50%" stop-color="#FF8FAB"/>
       <stop offset="100%" stop-color="#B983FF"/>
     </linearGradient>
   </defs>
-  <path fill="url(#footerGradient)" opacity="0.35"
-        d="M0 120H1200V44C1080 -4 980 -4 880 30S680 76 600 30 400 -16 300 22 100 56 0 22Z"/>
-  <path fill="url(#footerGradient)"
-        d="M0 120H1200V60C1090 16 990 14 890 46S690 90 600 46 400 0 300 38 110 68 0 36Z"/>
+  <path fill="url(#linearFooter)" opacity="0.4" d="M0 120L 0 45Q 213.5 5 427 35T 854 12L 854 120 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 120L 0 45Q 213.5 5 427 35T 854 12L 854 120 Z;M0 120L 0 22Q 213.5 5 427 25T 854 40L 854 120 Z;M0 120L 0 5Q 213.5 35 427 5T 854 40L 854 120 Z;M0 120L 0 45Q 213.5 5 427 35T 854 12L 854 120 Z"/>
+  </path>
+  <path fill="url(#linearFooter)" opacity="0.4" d="M0 120L 0 32Q 213.5 -12 427 18T 854 8L 854 120 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 120L 0 32Q 213.5 -12 427 18T 854 8L 854 120 Z;M0 120L 0 18Q 213.5 22 427 22T 854 28L 854 120 Z;M0 120L 0 22Q 213.5 20 427 18T 854 5L 854 120 Z;M0 120L 0 32Q 213.5 -12 427 18T 854 8L 854 120 Z"/>
+  </path>
 </svg>
