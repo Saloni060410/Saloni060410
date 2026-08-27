@@ -70,7 +70,7 @@ const saloni = {
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD666?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-B983FF?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-FF8FAB?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-FF8FAB?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-B983FF?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFD666?style=for-the-badge&logo=google&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-B983FF?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-FF8FAB?style=for-the-badge&logo=python&logoColor=white)
@@ -107,12 +107,12 @@ const saloni = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saloni060410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=FF8FAB&text_color=C9D1D9&ring_color=B983FF" width="49%" alt="Saloni's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saloni060410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=FF8FAB&text_color=C9D1D9&ring_color=B983FF" width="49%" alt="Saloni's GitHub stats — total commits, stars, PRs" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saloni060410&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=C9D1D9&exclude_repo=Saloni060410" width="49%" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Saloni060410&hide_border=true&border_radius=12&background=0d1117&stroke=0d1117&ring=B983FF&fire=FF8FAB&currStreakLabel=B983FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&cache_seconds=1800" width="70%" alt="GitHub streak — total contributions, current & longest streak" />
+<img src="https://streak-stats.demolab.com/?user=Saloni060410&hide_border=true&border_radius=12&background=0d1117&stroke=0d1117&ring=B983FF&fire=FF8FAB&currStreakLabel=B983FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&cache_seconds=1800" width="70%" alt="GitHub streak — total contributions, current and longest streak" />
 
 </div>
 
@@ -125,3 +125,4 @@ const saloni = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD666,50:FF8FAB,100:B983FF&height=120&section=footer" width="100%"/>
 
 </div>
+
